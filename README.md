@@ -14,7 +14,8 @@ Develop an e-Portal to streamline the management of case files and proceedings f
 
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/2141e5b2-2c03-4a56-846a-b21fd7470451)
+![image](https://github.com/user-attachments/assets/5d90c1f7-72c5-459c-a7bd-773fa58583a3)
+
 
 Frontend:
 User Interface for different stakeholders (Judges, Lawyers, Court Clerks)
