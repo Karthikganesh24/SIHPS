@@ -14,10 +14,12 @@ Develop an e-Portal to streamline the management of case files and proceedings f
 
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/5d90c1f7-72c5-459c-a7bd-773fa58583a3)
+![image](https://github.com/user-attachments/assets/dffada28-7f42-4728-b8bd-461688788b8b)
+
 
 
 Frontend:
+```
 User Interface for different stakeholders (Judges, Lawyers, Court Clerks)
 Forms for filing cases, viewing case status, and generating reports
 Backend:
@@ -33,9 +35,10 @@ Security:
 Authentication & Authorization mechanisms (OAuth, JWT)
 Data encryption (TLS/SSL) to ensure secure data transmission
 Role-based access control to restrict access based on user roles
-
+```
 
 ## Use Cases
+```
 Filing of Cases:
 Lawyers can file cases online, and the system will generate a unique case ID.
 Caveat Matching:
@@ -52,10 +55,11 @@ Case Status Search:
 Provide a search interface to check the status of a case using various filters.
 Reporting:
 Generate and export reports on case statistics, pendency, and disposal rates.
-
+```
 
 ## Technology Stack
 Frontend:
+```
 HTML5, CSS3, JavaScript (React.js, Angular, or Vue.js)
 UI frameworks like Bootstrap or Material UI for responsive design
 Backend:
@@ -74,9 +78,10 @@ Cloud services like AWS, Azure, or Google Cloud for hosting
 Version Control:
 Git for version control
 GitHub/GitLab for repository management
-
+```
 
 ## Dependencies
+```
 External APIs:
 Integration with government databases for case validation and data fetching.
 Libraries & Frameworks:
@@ -89,4 +94,4 @@ Payment Gateway for case filing fees
 DevOps Tools:
 CI/CD pipelines using Jenkins or GitHub Actions
 Monitoring tools like Prometheus and Grafana for system health checks
-
+```
