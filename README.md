@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 26 - 08 - 2024
-## Register Number: 212221040022
-## Name: Atluru Sai Vardhan Reddy
+## Register Number: 24900295
+## Name: Karthik ganesh.G
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
 ## Problem Description
