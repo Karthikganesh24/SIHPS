@@ -1,13 +1,13 @@
 # Smart India Hackathon Workshop
 # Date: 26 - 08 - 2024
-## Register Number: 212221040022
-## Name: Atluru Sai Vardhan Reddy
+## Register Number: 24900295
+## Name: karthik ganesh.G
 ## Problem Title
 Development of e-Portal for facilitating Case Management Hearing of various types of cases
 ## Problem Description
 Case Management Hearing, known as a Pre-Trial Conference" in other jurisdictions". This application is used for managing case files since filing to disposal and to complete all its related processes. The CMS keeps the records of all the cases filed in Delhi High Court. The system has following features: Filing of Case, Caveat matching, Allocation of case, Daily Case Proceedings, Notice Generation, Case Transfer, Case Status Search, Report, etc.
 ## Problem Creater's Organization
-Ministry of Law and Justice
+Ministry of Law and Justiceav
 
 ## Idea
 Develop an e-Portal to streamline the management of case files and proceedings from initial filing to final disposal. The portal aims to enhance efficiency, transparency, and accessibility in the judicial process by digitizing and automating various stages of Case Management Hearings (CMH), including filing, allocation, proceedings, and reporting.
